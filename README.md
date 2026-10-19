@@ -107,6 +107,10 @@ It is recommended to use the **[SkillsMP Marketplace](https://skillsmp.com)**, w
 
 You can also use **[skills.sh](https://skills.sh)** — Vercel's leaderboard — to intuitively view the most popular Skills repositories and individual Skill usage statistics.
 
+### Use This Skill
+
+Use **[Use This Skill](https://usethisskill.com)** to see what a skill actually changes before you install it. It indexes 1,400+ skills and adds **proofs**: each proven skill is run through Claude twice on the same brief, once without the skill and once with it, and both results are published as live pages side by side, with the model and the skill's exact commit recorded so the comparison can be repeated.
+
 ### npx skills CLI Tool
 
 For specific skills, use the `npx skills` command-line tool to quickly discover, add, and manage skills. For detailed parameters, see [vercel-labs/skills](https://github.com/vercel-labs/skills).
